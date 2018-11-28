@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Ben/Desktop/Monogame/RPGgame/RPGgame/Content/Misc/gameMap.tmx</SourceFile>
+  <SourceTime>2018-11-24T16:28:46.2963859+02:00</SourceTime>
+  <DestFile>C:/Users/Ben/Desktop/Monogame/RPGgame/RPGgame/Content/bin/Windows/Content/Misc/gameMap.xnb</DestFile>
+  <DestTime>2018-11-28T21:25:12.6132431+02:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2018-05-23T11:26:24+03:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2018-05-23T11:26:24+03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

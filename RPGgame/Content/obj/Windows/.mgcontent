@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Enemies/eyeEnemy.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Enemies/snakeEnemy.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Misc/bullet.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Misc/gameMap.tmx</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Misc/heart.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Misc/rpgTiles.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Obstacles/bush.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Obstacles/tree.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Player/player.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Player/playerDown.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Player/playerLeft.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Player/playerRight.png</File>
+    <File>C:/Users/Ben/Desktop/RPGgame-master/RPGgame/Content/Player/playerUp.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
